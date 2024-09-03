@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/daf74c90-c423-4cec-b487-894f44e9ba7f)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohil-chanana/)
+
 
 ## Hi there👋
 ### My name is Sohil Chanana, I am a Computer Science student from Canada 🍁.
@@ -71,7 +73,7 @@
   
 </div>
 
-## Database
+## Databases
 <div align="center">
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
