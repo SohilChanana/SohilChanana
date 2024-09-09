@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/daf74c90-c423-4cec-b487-894f44e9ba7f)
+![image](https://github.com/user-attachments/assets/c2b3f48d-e05a-4797-b1cb-ca996c3e1165)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohil-chanana/)
 
 
