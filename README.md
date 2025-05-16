@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/f9c5864c-9eea-44b4-bd8b-c1cd5c6a2d28)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohil-chanana/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sohilchanana.github.io/personal-portfolio/)
 
 
 ## Hi there👋
