@@ -5,11 +5,11 @@
 
 
 ## Hi there👋
-### My name is Sohil Chanana, I am a Computer Science student from Canada 🍁.
+### My name is Sohil Chanana, I am a Computer Science new grad from Canada 🍁.
 
-- 🎓 I’m in my 4th year specializing in Software Engineering at the University of Toronto Scarborough
-- 🌱 I’m currently learning about Web Development, Computer Networks and Engineering Large Software Systems
-- 🤔 I’m looking to expand my knowledge on Full-Stack Development
+- 🎓 I graduated specializing in Software Engineering at the University of Toronto Scarborough
+- 🌱 I’m proficient in Web Development, Computer Networks and Engineering Large Software Systems
+- 🤔 I’m looking to apply my knowledge on Full-Stack Development to business solutions
 
 ## Languages
 <div align="center">
